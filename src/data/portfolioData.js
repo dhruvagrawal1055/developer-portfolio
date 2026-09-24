@@ -6,7 +6,7 @@ export const personalInfo = {
   email: "dhruvagrawal1055@gmail.com",
   phone: "+91-9528176750",
   linkedin: "https://www.linkedin.com/in/dhruv-agrawal-9287b71b6",
-  github: "https://github.com/dhruvagrawal",
+  github: "https://github.com/dhruvagrawal1055",
   status: "Associate Software Developer @ TransUnion",
   bio: "Software engineer with production experience in high-concurrency backend services, custom C++ shared libraries, and in-memory data pipelines. Focused on building scalable microservices in Java/Spring Boot and low-latency execution engines.",
   resumeUrl: "/Dhruv_Agrawal_Resume.pdf",
@@ -95,7 +95,7 @@ export const projects = [
       "Event-driven decoupling via Apache Kafka"
     ],
     techStack: ["Java", "Spring Boot", "PostgreSQL", "Apache Kafka", "Redis", "Spring Security", "JWT", "Docker"],
-    github: "https://github.com/dhruvagrawal",
+    github: "https://github.com/dhruvagrawal1055",
     featured: true
   },
   {
@@ -117,7 +117,7 @@ export const projects = [
       "Zero-copy in-memory buffer passing"
     ],
     techStack: ["C++", "Apache Arrow", "Shared Libraries", "gRPC", "Protobuf", "Ray Serve", "ONNX Runtime"],
-    github: "https://github.com/dhruvagrawal",
+    github: "https://github.com/dhruvagrawal1055",
     featured: true
   },
   {
@@ -138,7 +138,7 @@ export const projects = [
       "Instant offline read/write with automatic cloud reconciliation"
     ],
     techStack: ["Kotlin", "Jetpack Compose", "Room Database", "Firebase Firestore", "Coroutines", "LiveData", "MVVM"],
-    github: "https://github.com/dhruvagrawal",
+    github: "https://github.com/dhruvagrawal1055",
     featured: true
   }
 ];
@@ -259,7 +259,7 @@ Degree: B.Tech in Computer Science and Engineering | CGPA: 8.58 / 10.0`,
   contact: `Email:    dhruvagrawal1055@gmail.com
 Phone:    +91-9528176750
 LinkedIn: https://linkedin.com/in/dhruv-agrawal
-GitHub:   https://github.com/dhruvagrawal
+GitHub:   https://github.com/dhruvagrawal1055
 Location: Bengaluru, India`,
 
   resume: `Resume PDF is ready for review. Click "Resume (PDF)" in the header to download!`
