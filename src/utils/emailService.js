@@ -4,7 +4,7 @@
  */
 
 export async function sendEmail({ name, email, subject, message }) {
-  const web3FormsKey = import.meta.env.VITE_WEB3FORMS_ACCESS_KEY;
+  const web3FormsKey = import.meta.env.VITE_WEB3FORMS_ACCESS_KEY || '194eff27-14f9-4c01-a0fa-62b537adaea2';
   const emailjsServiceId = import.meta.env.VITE_EMAILJS_SERVICE_ID;
   const emailjsTemplateId = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
   const emailjsPublicKey = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
