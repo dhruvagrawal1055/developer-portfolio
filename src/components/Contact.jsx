@@ -175,7 +175,7 @@ export default function Contact() {
               
               <div className="flex items-center justify-between pb-3 mb-4 border-b border-white/[0.06] text-xs font-mono text-slate-400">
                 <span>Send Direct Message</span>
-                <span className="text-sky-400 font-medium">Direct Message</span>
+                {/* <span className="text-sky-400 font-medium">Direct Message</span> */}
               </div>
 
               {/* Status Alert */}
